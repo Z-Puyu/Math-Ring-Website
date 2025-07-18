@@ -5,8 +5,8 @@
 ---
 title: TITLE
 date: YYYY-MM-DD HH:MM:SS +0800
-categories: [TOP_CATEGORY, SUB_CATEGORY] # 最多两个
-tags: [tag] # 必须使用全部小写字母
+categories: [TOP_CATEGORY, SUB_CATEGORY] # 最多两个，可以是汉字
+tags: [tag] # 必须使用全部小写字母或汉字
 author: xxx # 请在_data/authors.yml中定义你的作者ID
 ---
 
