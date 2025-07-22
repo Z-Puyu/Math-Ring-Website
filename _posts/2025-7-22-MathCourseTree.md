@@ -7,6 +7,7 @@ author: zpy
 math: true
 pin: true
 mermaid: true
+description: 数学系课程dependency一览
 ---
 ![Prerequisite Tree](/assets/img/2025-7-22-MathCourseTree/prereq_tree.svg){: width="800" }
 _右键在新页面中打开查看大图_
