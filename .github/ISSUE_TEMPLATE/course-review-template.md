@@ -14,7 +14,7 @@ categories: [课程评价, 数学课] # This will place the post under 课程评
 tags: [] # 支持任意非负整数个tag，使用英文逗号隔开，tag名称必须由且仅由小写英文字母、汉字或数字组成
 author: anonymous # 你的“笔名”，匿名请保持anonymous
 ---
-[NUSMODS链接]() # NUSMODS页面链接放入后面的小括号内
+[NUSMODS链接](NUSMODS页面链接放入这个小括号内)
 
 为格式统一，请勿删除后面的任何section！
 
