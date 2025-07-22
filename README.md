@@ -1,14 +1,5 @@
 本GitHub Repo为**NUS Maths & Stats Ring微信群官方资源集散网站**的GitHub Page源码。
 
-有投稿意向者，请自行查阅[教程](https://chirpy.cotes.page/posts/write-a-new-post/), 并fork本repo进行修改。请**务必使用pull request**进行更新！为方便起见，下附发帖markdown文件的模板，文件名必须遵循**YYYY-MM-DD-TITLE.md**格式：
-```markdown
----
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +0800
-categories: [TOP_CATEGORY, SUB_CATEGORY] # 最多两个，可以是汉字
-tags: [tag] # 必须使用全部小写字母或汉字
-author: xxx # 请在_data/authors.yml中定义你的作者ID
----
+有投稿意向者，可使用[Issues](https://github.com/Z-Puyu/Math-Ring-Website/issues)中的**Course Review Template**创建新的稿件，或填写[这个Google Form](https://forms.gle/H9yPSHiB52qC9ks16)。
 
-内容在此处开始
-```
+有关本网站稿件的特殊markdown语法支持，详情请参考[这里](https://chirpy.cotes.page/posts/write-a-new-post/)。
