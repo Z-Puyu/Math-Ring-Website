@@ -1,8 +1,8 @@
 ---
-title: NUS本科数学课Lecture Notes与Cheat Sheets（持续更新）
+title: NUS本科数学课Lecture Notes与Cheat Sheets合集（持续更新）
 date: 2025-7-18 23:46:00 +0800
-categories: [学习资料]
-tags: [Lecture Notes]     # TAG names should always be lowercase
+categories: [学习资料，数学课]
+tags: [lecture notes, cheatsheet]     # TAG names should always be lowercase
 author: zpy
 ---
 
