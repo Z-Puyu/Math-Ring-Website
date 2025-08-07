@@ -9,11 +9,15 @@ pin: true
 
 ## Lecture Notes
 
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/DSA2102 Lecture Notes (by qfl).pdf" download>DSA2102: Essential Data Analytics Tools: Numerical Computation</a>
+
 - <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/Linear Algebra II.pdf" download>MA2101: Linear Algebra II</a>
 
 - <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/Principle Of Mathematical Analysis Notes.pdf" download>MA2108S: Mathematical Analysis I (S) + MA3210: Mathematical Analysis II</a>
 
-- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/Probability.pdf" download>MA2116: Probability</a>
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA2116 Probability Lecture Notes (by qfl).pdf" download>MA2116: Probability (written by qfl)</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/Probability.pdf" download>MA2116: Probability (written by zpy)</a>
 
 - <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/Algebra I.pdf" download>MA2202: Algebra I</a>
 
@@ -49,4 +53,36 @@ pin: true
 
 ## Cheatsheet & Miscellaneous
 
-- [一些教材和Cheatsheet合集](https://github.com/OliverChen0602/Maths-material)
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/DSA3102 Cheatsheets.zip" download>DSA3102 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA2101 Cheatsheets.zip" download>MA2101 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA2116 Cheatsheets.zip" download>MA2116 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA2202 Cheatsheets.zip" download>MA2202 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA2214 Cheatsheets.zip" download>MA2214 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3209 Cheatsheets.zip" download>MA3209 Cheatsheets</a>
+  
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3211 Cheatsheets.zip" download>MA3211 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3220 Cheatsheets.zip" download>MA3220 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3236 Cheatsheets.zip" download>MA3236 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3238 Cheatsheets.zip" download>MA3238 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3252 Cheatsheets.zip" download>MA3252 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3264 Cheatsheets.zip" download>MA3264 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3265 Cheatsheets.zip" download>MA3265 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA4251 Cheatsheets.zip" download>MA4251 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA4254 Cheatsheets.zip" download>MA4254 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA4264 Cheatsheets.zip" download>MA4264 Cheatsheets</a>
+
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA4270 Cheatsheets.zip" download>MA4270 Cheatsheets</a>
