@@ -31,6 +31,8 @@ pin: true
 
 - <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3211S Notes.pdf" download>MA3211S: Complex Analysis I (S)</a>
 
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3220 Lecture Notes.zip" download>MA3220: Ordinary Differential Equations</a>
+
 - <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/Combinatorics and Graphs II.pdf" download>MA3233: Combinatorics and Graphs II</a>
 
 - <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/Stochastic Processes I.pdf" download>MA3238/ST3236: Stochastic Processes I</a>
