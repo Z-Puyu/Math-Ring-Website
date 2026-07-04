@@ -39,7 +39,7 @@ pin: true
 
 - <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/Linear and Network Optimisations.pdf" download>MA3252: Linear and Network Optimisations</a>
 
-- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3211S Notes.pdf" download>MA3265: Introduction to Number Theory</a>
+- <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/MA3265 Notes.pdf" download>MA3265: Introduction to Number Theory</a>
 
 - <a href="https://github.com/Z-Puyu/Math-Ring-Website/raw/main/files/Functional Analysis.pdf" download>MA4211: Functional Analysis</a>
 
